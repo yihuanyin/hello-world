@@ -1,4 +1,4 @@
 # hello-world
-hello git!
+git!
 
 a new file!
